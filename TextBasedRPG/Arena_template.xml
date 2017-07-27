@@ -16,7 +16,25 @@
        <name>Gem</name>
        <lore>The Currency of FallingKingdom</lore>
        <value>1g</value>
+       <amount>10</amount>
      </item>
     </inventory>
   </enemie>
+  <end>
+    <text></text>
+    <chest>
+      <inventory>
+        <item>
+          <id>1000</id>
+          <name>Gem</name>
+          <lore>The Currency of FallingKingdom</lore>
+          <value>1g</value>
+          <amount>10</amount>
+        </item>
+      </inventory>
+    <chest>
+    <trigger>
+      <next_room>1</next_room>
+    </trigger>
+  </end>
 </room>
