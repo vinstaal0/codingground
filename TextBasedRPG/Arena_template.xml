@@ -7,15 +7,15 @@
    </line>
   </text>
   <enemie>
-    <name></name>
-    <id></id>
-    <health></health>
+    <name>Slime</name>
+    <id>3000</id>
+    <health>10</health>
     <inventory>
      <item>
-       <id></id>
-       <name></name>
-       <lore></lore>
-       <value></value>
+       <id>1000</id>
+       <name>Gem</name>
+       <lore>The Currency of FallingKingdom</lore>
+       <value>1g</value>
      </item>
     </inventory>
   </enemie>
