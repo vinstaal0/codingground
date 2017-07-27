@@ -11,8 +11,7 @@
     <id>3000</id>
     <health>10</health>
     <inventory>
-     <item>
-       <id>1000</id>
+     <item id=1000>
        <name>Gem</name>
        <lore>The Currency of FallingKingdom</lore>
        <value>1g</value>
@@ -24,12 +23,17 @@
     <text></text>
     <chest>
       <inventory>
-        <item>
-          <id>1000</id>
+        <item id=1000>
           <name>Gem</name>
           <lore>The Currency of FallingKingdom</lore>
           <value>1g</value>
           <amount>10</amount>
+        </item>
+        <item id=3100>
+          <name>_t1chestplate</name>
+          <lore>_t1chestplate</lore>
+          <value>_t1chestplate</value>
+          <amount>1</amount>
         </item>
       </inventory>
     <chest>
