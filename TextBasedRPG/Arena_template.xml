@@ -1,8 +1,22 @@
 <?xml version="1.0"?>
 <room id=0>
   <text>
-    <line id=1>
-      <text></text>
-    </line>
+   <line id=1>
+     <text></text>
+     <event></event>
+   </line>
   </text>
+  <enemie>
+    <name></name>
+    <id></id>
+    <health></health>
+    <inventory>
+     <item>
+       <id></id>
+       <name></name>
+       <lore></lore>
+       <value></value>
+     </item>
+    </inventory>
+  </enemie>
 </room>
