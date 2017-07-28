@@ -1,18 +1,18 @@
 * 10000		_gem
-* 11000   _banknote
-* 15000   _orb_of_alteration
+* 11000   	_banknote
+* 15000   	_orb_of_alteration
 
-* 20000   _suretyscroll
-* 21000   _t1enchantscroll
-* 21500   _t1whitescroll
-* 22000   _t2enchantscroll
-* 22500   _t2whitescroll
-* 23000   _t3enchantscroll
-* 23500   _t3whitescroll
-* 24000   _t4enchantscroll
-* 24500   _t4whitescroll
-* 25000   _t5enchantscroll
-* 25500   _t5whitescroll
+* 20000    	_suretyscroll
+* 21000   	_t1enchantscroll
+* 21500   	_t1whitescroll
+* 22000   	_t2enchantscroll
+* 22500   	_t2whitescroll
+* 23000   	_t3enchantscroll
+* 23500   	_t3whitescroll
+* 24000   	_t4enchantscroll
+* 24500   	_t4whitescroll
+* 25000   	_t5enchantscroll
+* 25500   	_t5whitescroll
 
 * 31110	 	_t1helmet_common
 * 31120	 	_t1helmet_uncommon
@@ -94,7 +94,6 @@
 * 34430		_t4boots_rare
 * 34440		_t4boots_unique
 * 34450		_t4boots_ancient
-
 * 35110		_t5helmet_common
 * 35120		_t5helmet_uncommon
 * 35130		_t5helmet_rare
@@ -115,7 +114,6 @@
 * 35430		_t5boots_rare
 * 35440		_t5boots_unique
 * 35450		_t5boots_ancient
-
 
 * 41110		_t1sword_common
 * 41120		_t1sword_uncommon
@@ -192,7 +190,6 @@
 * 43530		_t3polearm_rare
 * 43540		_t3polearm_unique
 * 43550		_t3polearm_ancient
-
 * 44110		_t4sword_common
 * 44120		_t4sword_uncommon
 * 44130		_t4sword_rare
@@ -218,7 +215,6 @@
 * 44530		_t4polearm_rare
 * 44540		_t4polearm_unique
 * 44550		_t4polearm_ancient
-
 * 45110		_t5sword_common
 * 45120		_t5sword_uncommon
 * 45130		_t5sword_rare
