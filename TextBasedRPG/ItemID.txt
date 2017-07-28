@@ -1,4 +1,18 @@
-* 10000		gem
+* 10000		_gem
+* 11000   _banknote
+* 15000   _orb_of_alteration
+
+* 20000   _suretyscroll
+* 21000   _t1enchantscroll
+* 21500   _t1whitescroll
+* 22000   _t2enchantscroll
+* 22500   _t2whitescroll
+* 23000   _t3enchantscroll
+* 23500   _t3whitescroll
+* 24000   _t4enchantscroll
+* 24500   _t4whitescroll
+* 25000   _t5enchantscroll
+* 25500   _t5whitescroll
 
 * 31110	 	_t1helmet_common
 * 31120	 	_t1helmet_uncommon
@@ -20,7 +34,6 @@
 * 31430		_t1boots_rare
 * 31440		_t1boots_unique
 * 31450		_t1boots_ancient
-
 * 32110		_t2helmet_common
 * 32120		_t2helmet_uncommon
 * 32130		_t2helmet_rare
@@ -41,7 +54,6 @@
 * 32430		_t2boots_rare
 * 32440		_t2boots_unique
 * 32450		_t2boots_ancient
-
 * 33110		_t3helmet_common
 * 33120		_t3helmet_uncommon
 * 33130		_t3helmet_rare
@@ -62,7 +74,6 @@
 * 33430		_t3boots_rare
 * 33440		_t3boots_unique
 * 33450		_t3boots_ancient
-
 * 34110		_t4helmet_common
 * 34120		_t4helmet_uncommon
 * 34130		_t4helmet_rare
