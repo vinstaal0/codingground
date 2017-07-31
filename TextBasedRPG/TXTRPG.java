@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HelloWorld {
+public class TXTRPG {
     
     public static Scanner in = new Scanner(System.in);
     public static String input = "";
