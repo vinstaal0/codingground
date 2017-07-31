@@ -13,11 +13,14 @@ public class TXTRPG {
             if (input.equalsIgnoreCase("q")) {
                 System.out.println("Shutting down system...");
                 intput = "closed";
+                _continue = false;
             } else {
                 System.out.println("Ey!");
                 input = in.nextLine();
             }
         }
+        
+        in.close();
         
     }
 }
