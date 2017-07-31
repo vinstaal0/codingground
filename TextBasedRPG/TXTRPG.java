@@ -9,13 +9,12 @@ public class TXTRPG {
 
     public static void main(String []args) {
         
-        input = in.nextLine();
-        
         while(_continue) {
             if (input.equalsIgnoreCase("q")) {
                 System.out.println("Shutting down system...");
             } else {
                 System.out.println("Ey!");
+                input = in.nextLine();
             }
         }
         
