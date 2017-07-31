@@ -12,6 +12,7 @@ public class TXTRPG {
         while(_continue) {
             if (input.equalsIgnoreCase("q")) {
                 System.out.println("Shutting down system...");
+                intput = "closed";
             } else {
                 System.out.println("Ey!");
                 input = in.nextLine();
